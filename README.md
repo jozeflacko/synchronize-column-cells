@@ -1,8 +1,3 @@
-# w5-demo-
-
-
-
-
 # swipe-between screen and synchronize row
 
 ## Demo how to synchronize rows between 3 columns
