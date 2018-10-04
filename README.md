@@ -1,4 +1,4 @@
-# swipe-between screen and synchronize row
+# swipe between columns and synchronize row with different heights
 
 ## Demo how to synchronize rows between 3 columns
 
